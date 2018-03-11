@@ -1,6 +1,6 @@
 <?php
 /**
- Landing page after Signing in
+ * Landing page after Signing in
  */
 ?>
 <!doctype HTML>

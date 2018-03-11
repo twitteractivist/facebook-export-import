@@ -1,6 +1,6 @@
 <?php
 /**
- Home Page for Signing in
+ * Home Page for Signing in
  */
 session_start();
 session_destroy();

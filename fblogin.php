@@ -1,6 +1,6 @@
 <?php
  /**
- File to login using FB credentials
+ * File to login using FB credentials
  */
 session_start();
 error_reporting(E_ALL);
