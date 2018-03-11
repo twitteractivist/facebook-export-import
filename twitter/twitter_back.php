@@ -1,6 +1,6 @@
 <?php
 /**
- File for going back to twitter page
+ * Oauth authentication and redirection to facebook_export.php page
  */
 session_start();
 include ('config.php');

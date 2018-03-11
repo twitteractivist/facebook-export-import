@@ -1,6 +1,6 @@
 <?php
 /**
- File for logging out
+ * Aborts the session and redirect back to login
  */
 session_start();
 session_unset();

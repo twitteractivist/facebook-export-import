@@ -1,6 +1,6 @@
 <?php
 /**
- File for Authorization
+* Oauth authorization
  */
 session_start();
 include ('config.php');
